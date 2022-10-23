@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Zach.</h2>
+<h2> Hey! I'm Zach.</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
