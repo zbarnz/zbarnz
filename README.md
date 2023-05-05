@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.socnet.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.socnet.org-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.zachbarnes.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.zachbarnes.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/zach-barnes-92436614b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zach%20Barnes-blue?style=flat-square&logo=linkedin"></a>
 <a href="zbarnz@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-zbarnz@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
