@@ -8,10 +8,12 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.Js](https://img.shields.io/badge/-Next-333333?style=flat&logo=nextdotjs)
+  ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
